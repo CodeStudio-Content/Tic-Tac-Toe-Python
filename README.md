@@ -19,7 +19,7 @@ Tic Tac Toe is a simple game that is played by two players. The game is played o
 
 * Clone this repository to your local machine.
 * Open a terminal window and navigate to the cloned repository.
-* Run the following command to start the game: python tic_tac_toe.py
+* Run the following command to start the game: python game.py
 
 ## How to Play
 
