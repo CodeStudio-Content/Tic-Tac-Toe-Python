@@ -12,7 +12,7 @@ Tic Tac Toe is a simple game that is played by two players. The game is played o
 
 ## Blog
 
-Check out our project blog post for more information on the development process and our thoughts on the To-Do List project:
+Check out our project blog post for more information on the development process and our thoughts on the Tic Tac Toe Game project:
 
 * [Tic Tac Toe Game Using Python](https://www.codingninjas.com/codestudio/library/tic-tac-toe-game-using-python).
 
